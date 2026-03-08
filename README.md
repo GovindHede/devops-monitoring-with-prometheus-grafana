@@ -21,7 +21,7 @@ This guide covers the steps to:
 ## Observability
 
 ![Grafana diagram](grafana.png)
-![Prometheus diagram](prometheus.png)
+![Prometheus diagram](promethus.png)
 
 * A front-end web app in [Python](/vote) which lets you vote between two options
 * A [Redis](https://hub.docker.com/_/redis/) which collects new votes
@@ -55,6 +55,5 @@ Achieved seamless scaling and high availability, supporting 99.9% uptime for cri
 This project description emphasizes your role in leveraging AWS EC2, Kubernetes, and Argo CD to optimize application deployment and management processes effectively.
 
 
-### Aapke DevOps Wale Bhaiya
-### [TrainWithShubham](https://www.trainwithshubham.com/)
+-- Govind Hede
 
